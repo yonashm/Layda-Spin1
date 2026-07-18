@@ -1,0 +1,6 @@
+{
+  "name": "Layda Spin",
+  "description": "A modern, responsive, and feature-rich random selector wheel applet with realistic physics, custom colors, theme customizer, sound synthesis, and AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
